@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2042187d889520c418f823a2c6697e74
+guid: 901a8a64ee19e7441bdad99e8998c1b0
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -408,7 +408,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 77
+  spritePixelsToUnits: 78
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -457,32 +457,10 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: non-rm-a4-square-dark_0
+      name: non-rm-a4-square-dark 11_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 157
-        width: 78
-        height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d13c4aaca996d16d0800000000000000
-      internalID: -3018140061722688739
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: non-rm-a4-square-dark_1
-      rect:
-        serializedVersion: 2
-        x: 78
+        x: 7
         y: 157
         width: 78
         height: 78
@@ -494,17 +472,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df190d80c04636d49ae36b404696e7e9
-      internalID: 1541634428
+      spriteID: 0bc39567ff89e774baadc27cd00e6ea9
+      internalID: -292150075
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: non-rm-a4-square-dark_2
+      name: non-rm-a4-square-dark 11_1
       rect:
         serializedVersion: 2
-        x: 156
+        x: 85
         y: 157
         width: 78
         height: 78
@@ -516,17 +494,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33b8f1138a4d98d44b17ba2fc5daf7ed
-      internalID: 857726215
+      spriteID: 55705b82688f75a44a505d0cb1645fa5
+      internalID: 513962392
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: non-rm-a4-square-dark_3
+      name: non-rm-a4-square-dark 11_2
       rect:
         serializedVersion: 2
-        x: 0
+        x: 7
         y: 79
         width: 78
         height: 78
@@ -538,17 +516,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 975b3cff6e21c4d43abf7402ec297d2e
-      internalID: -1441024582
+      spriteID: a6fdc6fe137287e40bacb451e4a36a61
+      internalID: 804693653
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: non-rm-a4-square-dark_4
+      name: non-rm-a4-square-dark 11_3
       rect:
         serializedVersion: 2
-        x: 78
+        x: 85
         y: 79
         width: 78
         height: 78
@@ -560,39 +538,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 094badc3da703b8449eb617ed09423a7
-      internalID: 77864676
+      spriteID: 21c53570b6f31654696f8323c659c096
+      internalID: 1828592435
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: non-rm-a4-square-dark_5
+      name: non-rm-a4-square-dark 11_4
       rect:
         serializedVersion: 2
-        x: 156
-        y: 79
-        width: 78
-        height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 61e4e81c657b90b40a3b60a19e64c6f6
-      internalID: 37306241
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: non-rm-a4-square-dark_6
-      rect:
-        serializedVersion: 2
-        x: 0
+        x: 7
         y: 1
         width: 78
         height: 78
@@ -604,17 +560,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 515c88c0d0365af42b5764e408207f7f
-      internalID: 644691270
+      spriteID: 65b392bfde183984f8ccae3987d3bae9
+      internalID: 647940672
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: non-rm-a4-square-dark_7
+      name: non-rm-a4-square-dark 11_5
       rect:
         serializedVersion: 2
-        x: 78
+        x: 85
         y: 1
         width: 78
         height: 78
@@ -626,30 +582,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07cd80c891b18494093543cd1ff36d3f
-      internalID: -1125229904
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: non-rm-a4-square-dark_8
-      rect:
-        serializedVersion: 2
-        x: 156
-        y: 1
-        width: 78
-        height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e373bba94d75be04682223a6854da276
-      internalID: 925269252
+      spriteID: 11715446c95ae3947b80c6b3e9f95cd3
+      internalID: -1199590100
       vertices: []
       indices: 
       edges: []
@@ -668,15 +602,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      non-rm-a4-square-dark_0: -3018140061722688739
-      non-rm-a4-square-dark_1: 1541634428
-      non-rm-a4-square-dark_2: 857726215
-      non-rm-a4-square-dark_3: -1441024582
-      non-rm-a4-square-dark_4: 77864676
-      non-rm-a4-square-dark_5: 37306241
-      non-rm-a4-square-dark_6: 644691270
-      non-rm-a4-square-dark_7: -1125229904
-      non-rm-a4-square-dark_8: 925269252
+      non-rm-a4-square-dark 11_0: -292150075
+      non-rm-a4-square-dark 11_1: 513962392
+      non-rm-a4-square-dark 11_2: 804693653
+      non-rm-a4-square-dark 11_3: 1828592435
+      non-rm-a4-square-dark 11_4: 647940672
+      non-rm-a4-square-dark 11_5: -1199590100
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
